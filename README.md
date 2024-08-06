@@ -22,13 +22,6 @@
   </ul>
 </div>
 <br>
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyanazeem&layout=compact&langs_count=10&theme=synthwave&hide_border=true" height="200" alt="Top Languages" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sufyanazeem&theme=synthwave" alt="GitHub Streak" /></a>
-</div>
-
-<br>
 <h2 align="center">🛠 My Weapons</h2>
 
 <h3 align="center">Frontend Development</h3>
