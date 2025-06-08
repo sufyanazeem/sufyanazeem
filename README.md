@@ -39,48 +39,25 @@
 <div align="center">
 
 <strong>Frontend:</strong><br>
-<img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="Next.js"/>
-<img src="https://skillicons.dev/icons?i=react" height="36" alt="React"/>
-<img src="https://cdn.simpleicons.org/vite/646CFF" height="36" alt="Vite"/>
-<img src="https://cdn.simpleicons.org/redux/764ABC" height="36" alt="Redux"/>
-<img src="https://cdn.simpleicons.org/sass/CC6699" height="36" alt="Sass"/>
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" alt="Tailwind CSS"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="Next.js"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="36" alt="React"/>&nbsp;
+<img src="https://cdn.simpleicons.org/vite/646CFF" height="36" alt="Vite"/>&nbsp;
+<img src="https://cdn.simpleicons.org/redux/764ABC" height="36" alt="Redux"/>&nbsp;
+<img src="https://cdn.simpleicons.org/sass/CC6699" height="36" alt="Sass"/>&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" alt="Tailwind CSS"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=jquery" height="36" alt="jQuery"/>
 
-<br><br>
-
 <strong>Backend:</strong><br>
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" alt="Node.js"/>
-<img src="https://skillicons.dev/icons?i=express" height="36" alt="Express.js"/>
-<img src="https://skillicons.dev/icons?i=graphql" height="36" alt="GraphQL"/>
-
-<br><br>
-
-<strong>Mobile:</strong><br>
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" alt="Node.js"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="36" alt="Express.js"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=graphql" height="36" alt="GraphQL"/>&nbsp;
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="36" alt="React Native"/>
 
-<br><br>
-
 <strong>Database:</strong><br>
-<img src="https://skillicons.dev/icons?i=mongo" height="36" alt="MongoDB"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=mongo" height="36" alt="MongoDB"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL"/>
-
-<br><br>
-
-<strong>DevOps & Cloud:</strong><br>
-<img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS"/>
-<img src="https://skillicons.dev/icons?i=vercel" height="36" alt="Vercel"/>
-<img src="https://skillicons.dev/icons?i=netlify" height="36" alt="Netlify"/>
-
-<br><br>
-
-<strong>Tools & Others:</strong><br>
-<img src="https://skillicons.dev/icons?i=git" height="36" alt="Git"/>
-<img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub"/>
-<img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma"/>
-<img src="https://skillicons.dev/icons?i=postman" height="36" alt="Postman"/>
 
 </div>
 
